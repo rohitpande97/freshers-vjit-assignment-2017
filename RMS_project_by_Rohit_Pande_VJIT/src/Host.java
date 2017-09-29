@@ -5,7 +5,7 @@ class Host
 	Scanner s1 = new Scanner(System.in);
 	void number()
 	{
-	System.out.println("\n\nGreetings\nMy name is JIGNESH PATEL\n I am the host in this restaurant\n Feel free\n"+"Can you please tell me how many people are along with you?");
+	System.out.println("\n\nGreetings\nMy name is JIGNESH PATEL\n I am the host in this restaurant\n Feel free\n"+"Can you please tell me how many people are along with you(including you)?");
 	num=s1.nextInt();
 	}
 	int assign()
